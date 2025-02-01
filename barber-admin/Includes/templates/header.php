@@ -81,12 +81,7 @@
 		  				<span>Services</span>
 		  			</a>
 	  			</li>
-	  			<li class="nav-item">
-					<a class="nav-link" href="#">
-		  				<i class="far fa-image"></i>
-		  				<span>Samples</span>
-		  			</a>
-	  			</li>
+
 			  	
 
 	  			<!-- Divider -->
