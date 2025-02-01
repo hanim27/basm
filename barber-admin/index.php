@@ -115,7 +115,7 @@
                 	All Bookings
                 </button>
                 <button class="tablinks" onclick="openTab(event, 'Canceled')">
-                	Canceled Bookings
+                	Cancelled Bookings
                 </button>
             </div>
             <div class="card-body">
